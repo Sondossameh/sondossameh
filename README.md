@@ -75,21 +75,9 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-  <a href="(https://www.linkedin.com/in/sondos-sameh)">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-  </a>
-
-  <a href="https://github.com/sondossameh">
-
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  </a>
-
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sondossameh)
 <!--
 **sondosaldabbas59-eng/sondosaldabbas59-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
