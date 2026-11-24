@@ -72,7 +72,7 @@ practical projects, and continuous
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/sondos-sameh)"><img src="https://img.shields.io/badge/LinkedIn-4B246B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sondos-sameh/"><img src="https://img.shields.io/badge/LinkedIn-4B246B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <a href="https://github.com/sondossameh"><img src="https://img.shields.io/badge/GitHub-151020?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" /></a>
 
