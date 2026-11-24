@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Sondos Sameh 👋</h1>
-
-<h3 align="center">Cybersecurity Undergraduate | Information Security Enthusiast</h3>
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Sondos Sameh - Cybersecurity Student" />
+</p>
 
 <p align="center">
 
@@ -71,7 +71,25 @@
   <i>Always learning. Always improving.</i>
 
 </p>
+---
 
+## 🌐 Connect with Me
+
+<p align="center">
+
+  <a href="(https://www.linkedin.com/in/sondos-sameh)">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  </a>
+
+  <a href="https://github.com/sondossameh">
+
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  </a>
+
+</p>
 <!--
 **sondosaldabbas59-eng/sondosaldabbas59-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
