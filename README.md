@@ -80,17 +80,13 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondossameh&show_icons=true&bg_color=151020&title_color=C4B5FD&text_color=FFFFFF&icon_color=A78BFA&border_color=553780)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sondosaldabbas59-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sondossameh&layout=compact&bg_color=151020&title_color=C4B5FD&text_color=FFFFFF&border_color=553780)
 
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=sondossameh&background=151020&border=553780&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF)
 
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondosaldabbas59-eng&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+---
 
 ---
 
@@ -103,7 +99,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sondos-sameh))
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sondossameh)
 <!--
